@@ -1,2 +1,2 @@
-# config
-Basic Vim and Zsh config
+# config files and scripts
+Basic Neo Vim and Zsh config
